@@ -1,0 +1,36 @@
+{
+    "sidebar": {
+      "logo": "/logo.png",
+      "title": "RapidBy",
+      "links": [
+        {
+          "label": "Home",
+          "icon": "/icons/home.svg",
+          "path": "/store/dashboard/"
+        },
+        {
+          "label": "Products",
+          "icon": "/icons/products.svg",
+          "path": "/store/dashboard/products"
+        },
+        {
+          "label": "Orders",
+          "icon": "/icons/orders.svg",
+          "path": "/store/dashboard/orders"
+        },
+        {
+          "label": "Store Settings",
+          "icon": "/icons/store.svg",
+          "path": "/store/dashboard/store-settings"
+        },
+        {
+          "label": "Customer Support",
+          "icon": "/icons/customer.svg",
+          "path": "/store/dashboard/customer-support"
+        }
+      ],
+      "logoutIcon": "/icons/logout.svg",
+      "logoutTitle": "Logout"
+    }
+  }
+  

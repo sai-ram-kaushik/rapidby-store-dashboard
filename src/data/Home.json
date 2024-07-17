@@ -1,0 +1,82 @@
+{
+    "productDetails": {
+      "totalProduct": {
+        "icon": "/icons/products.svg",
+        "title": "Total Products",
+        "arrowIcon": "/icons/arrow.svg",
+        "totalNumber": "150"
+      },
+      "orderPending": {
+        "icon": "/icons/orders.svg",
+        "title": "Orders Pending",
+        "arrowIcon": "/icons/arrow.svg",
+        "totalNumber": "5"
+      },
+      "totalCustomer": {
+        "icon": "/icons/customer.svg",
+        "title": "Total Customer",
+        "arrowIcon": "/icons/arrow.svg",
+        "totalNumber": "3205"
+      }
+    },
+  
+    "sellingProducts": {
+      "topSellingProduct": {
+        "products": [
+          {
+            "label": "Your Brand Gaming Headphones",
+            "image": "/icons/1.png",
+            "unitsSold": "300",
+            "totalSales": "100k"
+          },
+          {
+            "label": "Your Brand Gaming Headphones",
+            "image": "/icons/1.png",
+            "unitsSold": "300",
+            "totalSales": "100k"
+          },
+          {
+            "label": "Your Brand Gaming Headphones",
+            "image": "/icons/1.png",
+            "unitsSold": "300",
+            "totalSales": "100k"
+          }
+        ]
+      }
+    },
+  
+    "orderDetails": {
+      "ordersList": {
+        "orders": [
+          {
+            "orderId": "#2456JL",
+            "orderedBy": "John",
+            "product": "Nike Sportsware",
+            "email": "john@gmail.com",
+            "orderDate": "Jan 12th, 12:32 pm",
+            "amount": "134.00",
+            "status": "pending"
+          },
+          {
+            "orderId": "#2456JL",
+            "orderedBy": "John",
+            "product": "Nike Sportsware",
+            "email": "john@gmail.com",
+            "orderDate": "Jan 12th, 12:32 pm",
+            "amount": "134.00",
+            "status": "pending"
+          },
+          {
+            "orderId": "#2456JL",
+            "orderedBy": "John",
+            "product": "Nike Sportsware",
+            "email": "john@gmail.com",
+            "orderDate": "Jan 12th, 12:32 pm",
+            "amount": "134.00",
+            "status": "pending"
+          }
+        ]
+      }
+    }
+  }
+  

@@ -25,7 +25,7 @@ const Login = () => {
 
     try {
       const response = await axios.post(
-        `h${import.meta.env.VITE_APP_API_ENDPOINT}/api/store/login-store-admin`,
+        `${import.meta.env.VITE_APP_API_ENDPOINT}/api/store/login-store-admin`,
         { username, password }
       );
 
